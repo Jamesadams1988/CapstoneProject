@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\YourGov\YourGov\bin\Debug\netcoreapp2.0\YourGov.deps.json
+C:\Users\James\Desktop\YourGov\YourGov\bin\Debug\netcoreapp2.0\YourGov.runtimeconfig.json
+C:\Users\James\Desktop\YourGov\YourGov\bin\Debug\netcoreapp2.0\YourGov.runtimeconfig.dev.json
+C:\Users\James\Desktop\YourGov\YourGov\bin\Debug\netcoreapp2.0\YourGov.dll
+C:\Users\James\Desktop\YourGov\YourGov\bin\Debug\netcoreapp2.0\YourGov.pdb
+C:\Users\James\Desktop\YourGov\YourGov\obj\Debug\netcoreapp2.0\YourGov.csprojAssemblyReference.cache
+C:\Users\James\Desktop\YourGov\YourGov\obj\Debug\netcoreapp2.0\YourGov.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\YourGov\YourGov\obj\Debug\netcoreapp2.0\YourGov.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\YourGov\YourGov\obj\Debug\netcoreapp2.0\YourGov.AssemblyInfo.cs
+C:\Users\James\Desktop\YourGov\YourGov\obj\Debug\netcoreapp2.0\YourGov.dll
+C:\Users\James\Desktop\YourGov\YourGov\obj\Debug\netcoreapp2.0\YourGov.pdb
